@@ -1,0 +1,290 @@
+{
+  "id": "1453",
+  "altNames": [
+    "Short period variable",
+    "Short period variables",
+    "Short-period variable",
+    "Short-period variable stars",
+    "Short-period variables"
+  ],
+  "broaders": [
+    {
+      "id": "1213",
+      "broaders": [
+        {
+          "id": "1761",
+          "altNames": [
+            "Variables"
+          ],
+          "broaders": [
+            "1634"
+          ],
+          "narrowers": [
+            "1202",
+            "1213",
+            "514",
+            "859"
+          ],
+          "name": "Variable stars",
+          "weight": 0.7
+        }
+      ],
+      "narrowers": [
+        {
+          "id": "1079",
+          "altNames": [
+            "Multiperiodic variable stars"
+          ],
+          "broaders": [
+            "1213",
+            "1307"
+          ],
+          "narrowers": [
+            "1216",
+            "148",
+            "1673",
+            "1847",
+            "2111",
+            "2123",
+            "370",
+            "404"
+          ],
+          "name": "Multi-periodic variable stars",
+          "weight": 0.7
+        },
+        {
+          "id": "1453",
+          "altNames": [
+            "Short period variable",
+            "Short period variables",
+            "Short-period variable",
+            "Short-period variable stars",
+            "Short-period variables"
+          ],
+          "broaders": [
+            "1213"
+          ],
+          "definition": "A variable star that has a relatively short period with respect to stars of similar types.",
+          "narrowers": [
+            "148",
+            "370"
+          ],
+          "name": "Short period variable stars",
+          "weight": 0.7
+        },
+        {
+          "id": "935",
+          "altNames": [
+            "Long period variables",
+            "Long-period variables"
+          ],
+          "broaders": [
+            "1213",
+            "1307"
+          ],
+          "definition": "A type of variable star in which variations in brightness occur over long time-scales of months or years. The term generally refers to Mira variable types.",
+          "narrowers": [
+            "1066",
+            "1444",
+            "1466",
+            "2123"
+          ],
+          "name": "Long period variable stars",
+          "weight": 0.7
+        }
+      ],
+      "name": "Periodic variable stars",
+      "weight": 0.9
+    }
+  ],
+  "definition": "A variable star that has a relatively short period with respect to stars of similar types.",
+  "narrowers": [
+    {
+      "id": "148",
+      "altNames": [
+        "Beta Cephei stars",
+        "Beta Cepheid variable stars",
+        "Beta canis majoris stars"
+      ],
+      "broaders": [
+        {
+          "id": "1079",
+          "altNames": [
+            "Multiperiodic variable stars"
+          ],
+          "broaders": [
+            "1213",
+            "1307"
+          ],
+          "narrowers": [
+            "1216",
+            "148",
+            "1673",
+            "1847",
+            "2111",
+            "2123",
+            "370",
+            "404"
+          ],
+          "name": "Multi-periodic variable stars",
+          "weight": 0.7
+        },
+        {
+          "id": "1307",
+          "altNames": [
+            "Pulsating stars"
+          ],
+          "broaders": [
+            "859"
+          ],
+          "definition": "A type of variable star that changes its brightness by changing its volume through expansion and contraction. Classical pulsating stars, including Cepheids, RR Lyrae, and Delta Scuti variables, are located in a quite narrow almost vertical region in the H-R diagram, known as instability strip.",
+          "narrowers": [
+            "1066",
+            "1079",
+            "1311",
+            "1410",
+            "148",
+            "2",
+            "2101",
+            "2112",
+            "2122",
+            "218",
+            "369",
+            "370",
+            "404",
+            "865",
+            "899",
+            "935"
+          ],
+          "name": "Pulsating variable stars",
+          "weight": 0.7
+        },
+        {
+          "id": "1453",
+          "altNames": [
+            "Short period variable",
+            "Short period variables",
+            "Short-period variable",
+            "Short-period variable stars",
+            "Short-period variables"
+          ],
+          "broaders": [
+            "1213"
+          ],
+          "definition": "A variable star that has a relatively short period with respect to stars of similar types.",
+          "narrowers": [
+            "148",
+            "370"
+          ],
+          "name": "Short period variable stars",
+          "weight": 0.7
+        },
+        {
+          "id": "432",
+          "altNames": [
+            "Early type variable stars"
+          ],
+          "broaders": [
+            "430"
+          ],
+          "narrowers": [
+            "148",
+            "1672",
+            "944"
+          ],
+          "name": "Early-type variable stars",
+          "weight": 0.7
+        }
+      ],
+      "name": "Beta Cephei variable stars",
+      "weight": 0.9
+    },
+    {
+      "id": "370",
+      "altNames": [
+        "Al Velorum stars",
+        "Delta Scuti variables",
+        "Dwarf Cepheids"
+      ],
+      "broaders": [
+        {
+          "id": "1079",
+          "altNames": [
+            "Multiperiodic variable stars"
+          ],
+          "broaders": [
+            "1213",
+            "1307"
+          ],
+          "narrowers": [
+            "1216",
+            "148",
+            "1673",
+            "1847",
+            "2111",
+            "2123",
+            "370",
+            "404"
+          ],
+          "name": "Multi-periodic variable stars",
+          "weight": 0.7
+        },
+        {
+          "id": "1307",
+          "altNames": [
+            "Pulsating stars"
+          ],
+          "broaders": [
+            "859"
+          ],
+          "definition": "A type of variable star that changes its brightness by changing its volume through expansion and contraction. Classical pulsating stars, including Cepheids, RR Lyrae, and Delta Scuti variables, are located in a quite narrow almost vertical region in the H-R diagram, known as instability strip.",
+          "narrowers": [
+            "1066",
+            "1079",
+            "1311",
+            "1410",
+            "148",
+            "2",
+            "2101",
+            "2112",
+            "2122",
+            "218",
+            "369",
+            "370",
+            "404",
+            "865",
+            "899",
+            "935"
+          ],
+          "name": "Pulsating variable stars",
+          "weight": 0.7
+        },
+        {
+          "id": "1453",
+          "altNames": [
+            "Short period variable",
+            "Short period variables",
+            "Short-period variable",
+            "Short-period variable stars",
+            "Short-period variables"
+          ],
+          "broaders": [
+            "1213"
+          ],
+          "definition": "A variable star that has a relatively short period with respect to stars of similar types.",
+          "narrowers": [
+            "148",
+            "370"
+          ],
+          "name": "Short period variable stars",
+          "weight": 0.7
+        }
+      ],
+      "definition": "A member of a class of pulsating stars with periods less than 0.3 days, spectral types A or F, and visual light amplitudes in the range from a few thousands of a magnitude to about 0.8 mag. On the H-R diagram, δ Scuti stars form a group which lies in an instability strip which includes the classical Cepheids at its brightest end and the pulsating white dwarfs at its faintest limit. These stars can show very complex light variations since, while some of them are pulsating in one radial mode only, others may be pulsating simultaneously in several radial and non-radial modes.",
+      "name": "Delta Scuti variable stars",
+      "weight": 0.9
+    }
+  ],
+  "name": "Short period variable stars",
+  "weight": 1
+}
